@@ -5,8 +5,8 @@ Pada _repositori_ ini saya akan membagikan beberapa project atau rancangan yang 
 Berikut contoh-contoh projectnya guys hehe.
 |  Nomor  |              Topik               |                                      Penjelasan                                       |              Tipe Board               |
 | :-----: | :------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------: |
-|   01    |             Arduino              |              Memahami apa itu Arduino dan apa peran Arduino dalam kehidupan           |               [Arduino](arduino)      |
-|   02    |             ESP8266              |          Memahami apa itu Arduino dan apa peran ESP8266 dalam kehidupan serta IoT     |               [ESP8266](esp8266)      |
+|   01    |             Arduino              |              Memahami apa itu Arduino dan apa peran Arduino dalam kehidupan           |               [Arduino](Arduino)      |
+|   02    |             ESP8266              |          Memahami apa itu Arduino dan apa peran ESP8266 dalam kehidupan serta IoT     |               [ESP8266](ESP8266)      |
 
 
 Setelah menyelesaikan seluruh rangkaian pengenalan dasar - dasar pemograman, kalian dapat mulai untuk mempelajari topik - topik lain yang jauh lebih seru!
