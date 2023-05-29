@@ -101,12 +101,10 @@ Semua _script_ yang ada pada repositori ini, dapat diakses dengan cepat lewat li
 - [Web Programming](web_programming)
 - [Implementasi Matematika](math)
 
-## 🤩 Ayo ikut kami dan berkontribusi! 🤩
+## 🤩 Ayo Belajar Koding 🤩
 
-Bantuan kalian diperlukan Agar Bellshade dapat lebih jauh lagi membantu anak-anak Indonesia belajar _programming_, kita butuh tenaga kalian!
+Bantuan kalian diperlukan agar kami dapat lebih jauh lagi membantu anak-anak Indonesia belajar _programming_, kita butuh tenaga kalian!
 
-> "Dengan Bellshade, aku jadi bisa _ngoding_! Terima kasih Bellshade!"
+> "Dengan belajar disini, aku jadi bisa _ngoding_! Terima kasih!"
 
-Kami sangat senang bila kalian ingin melakukan kontribusi pada repositori **Python** ini. Tapi, sebelum itu, silahkan baca terlebih dahulu [peraturan dan pedomannya](CONTRIBUTING.md) yang telah kami siapkan. Terima kasih!
-
-Untuk informasi lebih lanjut, mari gabung dalam komunitas [Discord Channel WPU](http://discord.gg/S4rrXQU) dan [Discord Channel Kelas Terbuka](https://discord.gg/eavqxxTU)
+Kami sangat senang bila kalian ingin melakukan kontribusi pada repositori **Arduino** ini. Tapi, sebelum itu, silahkan baca terlebih dahulu [Peraturan dan Pedomannya](CONTRIBUTING.md) yang telah kami siapkan. Terima kasih!
